@@ -3,7 +3,6 @@ const fs = require("fs");
 const request = require("request");
 
 const link = [
-const videos = [
   "https://i.imgur.com/giKJlOB.mp4",
   "https://i.imgur.com/GJRpFP7.mp4",
   "https://i.imgur.com/IvXcCMx.mp4",
@@ -25,7 +24,6 @@ const videos = [
   "https://i.imgur.com/P6vgcRQ.mp4",
   "https://i.imgur.com/Qb1kDre.mp4",
   "https://i.imgur.com/rgYTOy8.mp4"
-];
 ];
 
 module.exports.config = {
